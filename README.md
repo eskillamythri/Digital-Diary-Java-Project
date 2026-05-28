@@ -26,7 +26,7 @@ A Java Swing based desktop application used to create, save, open, edit, and del
 src
 ├── Login.java
 ├── DiaryHome.java
-└── DBConnection.java
+└── NotesManager.java
 ```
 
 ## Author
