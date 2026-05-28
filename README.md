@@ -14,7 +14,6 @@ A Java Swing based desktop application used to create, save, open, edit, and del
 - Java
 - Swing
 - File Handling
-- JDBC (Optional)
 
 ## How to Run
 1. Open project in NetBeans or Eclipse
